@@ -253,7 +253,7 @@ In terms of my projects, my golden rule is, well, 🥇[the golden rule](https://
 # 🐺 [My Fursonas](https://www.furaffinity.net/user/tktheanimal)
 Each of these characters represents a facet of myself or just something from my imagination and life experiences. Some are alters within my DID system (Nic, Charlie, Peter Issac), while others represent ideas or stories I wanted to explore and flesh out more. I might make projects with some of them in the future.
 
-Given how many fellow furs are into programming, I am very happy to share this facet of my life on my silly lil GitHub UwU!
+Given how many fellow furs are into programming, I am very happy to share this facet of my life on my silly lil GitHub UwU! Click the photos to see the original reference sheets on FurAffinity to learn more about each guy UwU!
 
 | Fursona | Description |
 |---------|-------------|
