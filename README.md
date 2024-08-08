@@ -13,8 +13,6 @@ I'm an enthusiastic developer on a journey of continuous learning and growth. My
 
 # Table of Contents
 
-# Table of Contents
-
 1. [Technical Skills](https://github.com/nicweyand#technical-skills)
    - [Tech Stack](https://github.com/nicweyand#-tech-stack)
    - [Tools & Platforms](https://github.com/nicweyand#-tools--platforms)
