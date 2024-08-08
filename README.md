@@ -11,16 +11,25 @@ I'm an enthusiastic developer on a journey of continuous learning and growth. My
 - 🐺[Being a furry UwU](https://www.furaffinity.net/user/tktheanimal)
 - 🫵[Boopin'](https://www.youtube.com/watch?v=ANzOdRPUDxU)
 
-## Table of Contents
-- [Tech Stack](#-tech-stack)
-- [Tools & Platforms](#-tools--platforms)
-- [Current Focus](#-current-focus)
-- [Projects](#️-projects)
-- [Contributions](#-contributions)
-- [Connect With Me](#-connect-with-me)
-- [Collaboration](#-collaboration)
-- [Personal Interests](#-personal-interests)
-- [My Fursonas](#-my-fursonas)
+# Table of Contents
+
+1. [Technical Skills](https://github.com/nicweyand#technical-skills)
+   1.1 [Tech Stack](https://github.com/nicweyand#-tech-stack)
+   1.2 [Tools & Platforms](https://github.com/nicweyand#-tools--platforms)
+   1.3 [Learning Journey](https://github.com/nicweyand#-learning-journey)
+      1.3.1 [Currently Learning](https://github.com/nicweyand#currently-learning)
+      1.3.2 [Fundamentals](https://github.com/nicweyand#fundamentals)
+      1.3.3 [Future Interests](https://github.com/nicweyand#future-interests)
+      1.3.4 [Learning Resources](https://github.com/nicweyand#learning-resources)
+   1.4 [Current Focus](https://github.com/nicweyand#-current-focus)
+2. [Projects](https://github.com/nicweyand#%EF%B8%8F-projects)
+3. [Contributions](https://github.com/nicweyand#-contributions)
+4. [Social Media & Contact](https://github.com/nicweyand#-social-media-links--ways-to-contact-meeeeeeeeeeeeeeeeeeeeeee)
+5. [Collaboration](https://github.com/nicweyand#-collaboration)
+6. [Personal Details](https://github.com/nicweyand#personal-stuff)
+   6.1 [Personal Interests](https://github.com/nicweyand#-personal-interests-outside-of-programmin)
+   6.2 [Philosophy](https://github.com/nicweyand#-philosophy)
+7. [Fursonas](https://github.com/nicweyand#-my-fursonas)
 
 # Technical Skills:
 ## 💻 Tech Stack
