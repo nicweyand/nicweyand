@@ -11,6 +11,17 @@ I'm an enthusiastic developer on a journey of continuous learning and growth. My
 - 🐺[Being a furry UwU](https://www.furaffinity.net/user/tktheanimal)
 - 🫵[Boopin'](https://www.youtube.com/watch?v=ANzOdRPUDxU)
 
+## Table of Contents
+- [Tech Stack](#-tech-stack)
+- [Tools & Platforms](#-tools--platforms)
+- [Current Focus](#-current-focus)
+- [Projects](#️-projects)
+- [Contributions](#-contributions)
+- [Connect With Me](#-connect-with-me)
+- [Collaboration](#-collaboration)
+- [Personal Interests](#-personal-interests)
+- [My Fursonas](#-my-fursonas)
+
 # Technical Skills:
 ## 💻 Tech Stack
 *Note: I'm in the early stages of my journey, continuously improving and expanding my knowledge!*
@@ -166,7 +177,7 @@ I'm, like, *newborn* new to Rust. *But OMG. Loooooove ittttttttt aaaaaaaaa!!!!*
 - Exploring the depths of C++20!
 - Venturing into the world of Flutter and Python (but mostly trying to master C++ first!)
 - I'm building my lil projects, hoping they help people out!
-- 
+
 ## 🌱 Learning & Interests
 - Expanding my programming language repertoire
 - Game design concepts
