@@ -50,7 +50,7 @@ Just starting, picking it up quickly!
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ████░░░░░░░░░░░░░░░░░░░░   ***15%***|
 Fun and easy, love it! But very green to it.
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)    █░░░░░░░░░░░░░░░░░░░░░░░   ***5%***|
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)    ████░░░░░░░░░░░░░░░░░░░   ***25%***|
 I'm, like, *newborn* new to Rust. *But OMG. Loooooove ittttttttt aaaaaaaaa!!!!*
 
 ### 🧰 Tools & Platforms
