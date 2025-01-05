@@ -33,8 +33,6 @@ Currently developing several exciting initiatives under the 🌸Lilac ecosystem:
 
 *More details coming as projects reach maturity!*
 
-[View all projects (currently empty!)](https://github.com/nicweyand?tab=repositories)
-
 ## 🛠️ Tech Stack
 
 ### Core Stack
@@ -65,8 +63,6 @@ Currently developing several exciting initiatives under the 🌸Lilac ecosystem:
 - Comprehensive testing frameworks
 - Documentation generation
 - Performance profiling
-
-[Full tech details](link-to-detailed-tech-page)
 
 ## 🌱 Current Goals
 
@@ -117,6 +113,3 @@ These characters represent different aspects of my creativity and personality. E
 | <a href="https://www.furaffinity.net/view/49998431/"><img src="https://d.furaffinity.net/art/tktheanimal/1669586443/1669586443.tktheanimal_bull_.png" alt="Bill the professional bovine breeder" width="200"/></a> | **Bill**: "Business strategy" |
 
 Full character details & art: [View on FurAffinity](https://www.furaffinity.net/user/tktheanimal)
-
----
-*Building a better world through ethical tech, one project at a time!* 💜
