@@ -1,4 +1,4 @@
-# Hiya! I'm Nic Weyand! 👋
+# Hiya! I'm Nic Weyand! 👋 
 
 ## TLDR:
 I am an enthusiastic Rust developer, working on progressive leftist open source projects! I'm all about making practical solutions that help real people while rejecting the traditional Silicon Valley & Wall Street profit-first mentality. Building the 🪻Lilac ecosystem of tools and platforms with 100% safe Rust! 🦀
